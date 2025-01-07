@@ -2,6 +2,12 @@
 date: "2025-01-07T15:03:59-05:00"
 draft: false
 title: "Once More, With Feeling..."
+cover:
+  image: images/newspapers.jpg
+  alt: "a stack of newspapers"
+  caption: ""
+tags: ["announcements", "town hall"]
+categories: ["announcements"]
 ---
 
 # Hello, World!

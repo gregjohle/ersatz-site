@@ -1,4 +1,38 @@
 baseURL: https://example.org/
 languageCode: en-us
-title: My New Hugo Site
+title: Ersatz Gazette
 theme: ["PaperMod"]
+
+params:
+  homeInfoParams:
+    Title: "Ersatz Gazette"
+    Content: "Your #1 Source for News"
+  socialIcons:
+    - name: x
+      url: "https://www.x.com"
+
+  cover:
+    linkFullImages: true
+
+  ShowBreadcrumbs: true
+
+  ShowReadingTime: true
+
+  ShowShareButtons: true
+
+  ShowPostNavLinks: true
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
