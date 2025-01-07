@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2025 15:03:59 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Once More, With Feeling...</title>
+      <link>http://localhost:1313/posts/first/</link>
+      <pubDate>Tue, 07 Jan 2025 15:03:59 -0500</pubDate>
+      <guid>http://localhost:1313/posts/first/</guid>
+      <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello, World!&lt;/h1&gt;
+&lt;p&gt;This is an attempt to revive an old site of mine that has long since died. I miss all the fun I had with satire. It&amp;rsquo;s time to come back.&lt;/p&gt;
+&lt;p&gt;The old site was focused on &amp;ldquo;science&amp;rdquo;. Things like the effacacy of medicinal marijuana for pediatric use, or a GMO tomato crop attacking the scientists that bred them.&lt;/p&gt;
+&lt;p&gt;All good things come to an end. It was too expensive to host a wordpress site for me, at the time. I tried to use ads and merchandise to grow the site and make it profitable, but that was beyond my abilities.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
